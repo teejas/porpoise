@@ -20,9 +20,9 @@ For example, let's say the user enters "creativity" meaning the act of creating 
 
 ## Navigating the codebase
 
-`/client`: Javascript client code, using socket.io
-`/server`: Rust server code, using socketioxide
+- `/client`: Javascript client code, using socket.io
+- `/server`: Rust server code, using socketioxide
 
 ## References
-https://github.com/Totodore/socketioxide
-https://socket.io/
+- https://github.com/Totodore/socketioxide
+- https://socket.io/
